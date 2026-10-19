@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/flake8-tidy-imports/commit/7207cd25f9baa77542d2253e2fbf9dafb507c635",
       "git:hexsha": "7207cd25f9baa77542d2253e2fbf9dafb507c635",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/flake8-tidy-imports/commit/decb762c48a5ef725a3e113ddafa553e16d3d749",
