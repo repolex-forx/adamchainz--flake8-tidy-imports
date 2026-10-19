@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "flake8-tidy-imports",
+  "versions": [
+    {
+      "commit": "7207cd25f9baa77542d2253e2fbf9dafb507c635",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:16:08.986676+00:00"
+    }
+  ]
+}
